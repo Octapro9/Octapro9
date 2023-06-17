@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Pushkal Agarwal.
 
 <!--
 **Octapro9/Octapro9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently pursuing Btech in ECE at IIIT Bhagalpur.
+- 🌱 I’m currently learning Data Structures and Algorithms.
+- 💬 Ask me about C, C++, python.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Anime.
