@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💬 Ask me about C, C++, python.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Anime.
+- ⚡ Fun fact: I love to read books.
